@@ -1,0 +1,15 @@
+{
+    "summary-purchase": [
+        {"qty": "65", "unitMeasure" :"Unit", "totalValue": "$707 USD"},
+        {"qty": "15", "unitMeasure" :"Unit", "totalValue": "$163 USD"},
+        {"qty": "58", "unitMeasure" :"Unit", "totalValue": "$630 USD"},
+        {"qty": "46", "unitMeasure" :"Unit", "totalValue": "$500 USD"},
+        {"qty": "39", "unitMeasure" :"Unit", "totalValue": "$424 USD"},
+        {"qty": "30", "unitMeasure" :"Unit", "totalValue": "$326 USD"},
+        {"qty": "0", "unitMeasure" :"Unit", "totalValue": "$0 USD"},
+        {"qty": "23", "unitMeasure" :"Unit", "totalValue": "$250 USD"}
+    ],
+    "reports": [
+        {"url" : "#?reporte-resumen-de-compras"}
+    ]
+}
