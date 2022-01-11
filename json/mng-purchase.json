@@ -1,15 +1,57 @@
 {
-    "summary-purchase": [
-        {"qty": "65", "unitMeasure" :"Unit", "totalValue": "$707 USD", date:"01/05/2021"},
-        {"qty": "15", "unitMeasure" :"Unit", "totalValue": "$163 USD", date:"01/06/2021"},
-        {"qty": "58", "unitMeasure" :"Unit", "totalValue": "$630 USD", date:"01/07/2021"},
-        {"qty": "46", "unitMeasure" :"Unit", "totalValue": "$500 USD", date:"01/08/2021"},
-        {"qty": "39", "unitMeasure" :"Unit", "totalValue": "$424 USD", date:"01/09/2021"},
-        {"qty": "30", "unitMeasure" :"Unit", "totalValue": "$326 USD", date:"01/10/2021"},
-        {"qty": "0", "unitMeasure" :"Unit", "totalValue": "$0 USD", date:"01/11/2021"},
-        {"qty": "23", "unitMeasure" :"Unit", "totalValue": "$250 USD", date:"01/12/2021"}
+    "summary-purchase":[
+       {
+          "qty":"65",
+          "unitMeasure":"Unit",
+          "totalValue":"$707 USD",
+          "date":"01/05/2021"
+       },
+       {
+          "qty":"15",
+          "unitMeasure":"Unit",
+          "totalValue":"$163 USD",
+          "date":"01/06/2021"
+       },
+       {
+          "qty":"58",
+          "unitMeasure":"Unit",
+          "totalValue":"$630 USD",
+          "date":"01/07/2021"
+       },
+       {
+          "qty":"46",
+          "unitMeasure":"Unit",
+          "totalValue":"$500 USD",
+          "date":"01/08/2021"
+       },
+       {
+          "qty":"39",
+          "unitMeasure":"Unit",
+          "totalValue":"$424 USD",
+          "date":"01/09/2021"
+       },
+       {
+          "qty":"30",
+          "unitMeasure":"Unit",
+          "totalValue":"$326 USD",
+          "date":"01/10/2021"
+       },
+       {
+          "qty":"0",
+          "unitMeasure":"Unit",
+          "totalValue":"$0 USD",
+          "date":"01/11/2021"
+       },
+       {
+          "qty":"23",
+          "unitMeasure":"Unit",
+          "totalValue":"$250 USD",
+          "date":"01/12/2021"
+       }
     ],
-    "reports": [
-        {"url" : "#?reporte-resumen-de-compras"}
+    "reports":[
+       {
+          "url":"#?reporte-resumen-de-compras"
+       }
     ]
-}
+ }
