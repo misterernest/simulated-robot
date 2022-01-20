@@ -1,0 +1,39 @@
+{
+  "payers": {
+    "options": [
+      {
+        "id": 1,
+        "text": "Payer1",
+        "applicants": {
+          "options": [
+            { "id": 1, "text": "Applicant 1" },
+            { "id": 2, "text": "Applicant 2" },
+            { "id": 3, "text": "Applicant 3" }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "text": "Payer1",
+        "applicants": {
+          "options": [
+            { "id": 4, "text": "Applicant 4" },
+            { "id": 5, "text": "Applicant 5" },
+            { "id": 6, "text": "Applicant 6" }
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "text": "Payer1",
+        "applicants": {
+          "options": [
+            { "id": 7, "text": "Applicant 7" },
+            { "id": 8, "text": "Applicant 8" },
+            { "id": 9, "text": "Applicant 9" }
+          ]
+        }
+      }
+    ]
+  }
+}

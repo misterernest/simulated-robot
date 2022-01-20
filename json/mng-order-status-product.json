@@ -1,0 +1,10 @@
+{
+    "products": {
+        "options": [
+            { "id": 1, "text": "Concreto" },
+            { "id": 2, "text": "Agregados" },
+            { "id": 3, "text": "Roofing" },
+            { "id": 4, "text": "Morteros" }
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "products": {
+        "options": [
+            { "id": 1, "text": "solicitado" },
+            { "id": 2, "text": "aceptado" },
+            { "id": 3, "text": "rechazado" },
+            { "id": 4, "text": "despechado" }
+        ]
+    }
+}
